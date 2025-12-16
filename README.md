@@ -32,7 +32,7 @@ src/
 ### Clone the Repository
 
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/santhosh12133/My-resume.git
 
 cd your-repo-name
 
